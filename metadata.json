@@ -1,0 +1,6 @@
+{
+  "name": "PromptCraft AI",
+  "description": "Professional AI Prompt Generator for image, video, writing, marketing, and popular AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
